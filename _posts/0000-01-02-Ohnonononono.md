@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to github teacher slide!"
 ---
-just change anything is good
+This is m 
 Use the left arrow to go back!
